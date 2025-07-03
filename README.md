@@ -19,4 +19,3 @@ This documentation sample is for demonstration purposes only.
 I am not affiliated with OpenAI.
 
 ---
-
